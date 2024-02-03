@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\user\Documents\VuGen\Scripts\UC2_SearchTicketWithoutPayment
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\user\documents\vugen\scripts\uc2_searchticketwithoutpayment\\logfile.log
+c:\users\user\documents\vugen\scripts\uc2_searchticketwithoutpayment\\combined_UC2_SearchTicketWithoutPayment.c
+c:\users\user\documents\vugen\scripts\uc2_searchticketwithoutpayment\\pre_cci.c

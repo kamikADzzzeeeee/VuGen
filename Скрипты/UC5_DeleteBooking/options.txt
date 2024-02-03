@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\user\Documents\VuGen\Scripts\UC5_DeleteBooking
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\user\documents\vugen\scripts\uc5_deletebooking\\logfile.log
+c:\users\user\documents\vugen\scripts\uc5_deletebooking\\combined_UC5_DeleteBooking.c
+c:\users\user\documents\vugen\scripts\uc5_deletebooking\\pre_cci.c

@@ -1,0 +1,339 @@
+f84
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Flights List</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Itinerary</font></b></h1><blockquote><form method="post" action="itinerary.pl" enctype="application/x-www-form-urlencoded">
+<center>
+<TABLE BORDER="0" WIDTH="85%" CELLSPACING="0">
+<TR bgcolor="#5E7884">
+  <TD colspan="4" align="center"><font color="white"><B>Pauline Ryabova
+ 's Flight Transaction Summary</B></color></TD></TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="1" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="213944944-8070-PR"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;10 First class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Pauline Ryabova      <li><i>Veronica Dorofeeva      <li><i>Andrey Sorokin      <li><i>Julia Zhukova      <li><i>Daniel Vinogradov      <li><i>Ksenia Kulikova      <li><i>Lev Borisov      <li><i>Natalia Koroleva      <li><i>Ivan Frolov      <li><i>Tatiana Grigorieva
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Pauline Ryabova
+<br/>
+          Parkovaya<br/>
+          water/Nenets_Autonomous_Okrug/2044<br/>
+          <br/>
+          Total Charge: $ 4910 <BR/> (CC: x-5776)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  11pm : Flight 513 leaves Portland  for Frankfurt.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="2" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="213943101-1595-PR"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Pauline Ryabova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Pauline Ryabova
+<br/>
+          Parkovaya<br/>
+          water/Nenets_Autonomous_Okrug/2044<br/>
+          <br/>
+          Total Charge: $ 738 <BR/> (CC: x-5776)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  11pm : Flight 463 leaves Paris  for San Francisco.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="3" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="2139570447-23395-PR"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Pauline Ryabova      <li><i>Natalia Andreeva
+      <li><i></i
+1000
+>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Pauline Ryabova
+<br/>
+          Parkovaya<br/>
+          water/Nenets_Autonomous_Okrug/2044<br/>
+          <br/>
+          Total Charge: $ 4142 <BR/> (CC: x-5776)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  8am : Flight 840 leaves Sydney  for Paris.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="4" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="213942688-3493690-PR"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;7 Coach class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Pauline Ryabova      <li><i>Anastasia Sorokina      <li><i>Gregory Tarasov      <li><i>Milan Kozlova      <li><i>Dmitriy Krylov      <li><i>Anastasia Zhukova      <li><i>Eldar Anisimov
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Pauline Ryabova
+<br/>
+          Parkovaya<br/>
+          water/Nenets_Autonomous_Okrug/2044<br/>
+          <br/>
+          Total Charge: $ 7980 <BR/> (CC: x-5776)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  5pm : Flight 452 leaves Paris  for Portland.<br>  02/09/2024
+ :  1pm : Flight 541 leaves Portland  for Paris.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="5" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="213952728-38873-PR"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;8 Business class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Pauline Ryabova      <li><i>Alice Pavlova      <li><i>Anton Vinogradov      <li><i>Pauline Osipova      <li><i>Artyom Novikov      <li><i>Pauline Orlova      <li><i>Alexander Semyonov      <li><i>Natalia Polyakova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Pauline Ryabova
+<br/>
+          Parkovaya<br/>
+          water/Nenets_Autonomous_Okrug/2044<br/>
+          <br/>
+          Total Charge: $ 5360 <BR/> (CC: x-5776)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  11pm : Flight 723 leaves Seattle  for London.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="6" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="213953782-46242-PR"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;10 First class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Pauline Ryabova      <li><i>Alice Koroleva      <li><i>Eldar Gerasimov      <li><i>Pauline Baranova      <li><i>Nikita Vinogradov      <li><i>Daria Osipova      <li><i>Michael Pavlov      <li><i>Pauline Belousova      <li><i>Eldar Mikhailov      <li><i>Veronica Volkova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+ 
+ae1
+ <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Pauline Ryabova
+<br/>
+          Parkovaya<br/>
+          water/Nenets_Autonomous_Okrug/2044<br/>
+          <br/>
+          Total Charge: $ 1150 <BR/> (CC: x-5776)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  5pm : Flight 752 leaves Seattle  for Portland.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="7" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="213944944-5500335-PR"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;4 First class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Pauline Ryabova      <li><i>Valeria Sidorova      <li><i>Nikita Frolov      <li><i>Anastasia Bobrova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Pauline Ryabova
+<br/>
+          Parkovaya<br/>
+          water/Nenets_Autonomous_Okrug/2044<br/>
+          <br/>
+          Total Charge: $ 4364 <BR/> (CC: x-5776)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  11pm : Flight 513 leaves Portland  for Frankfurt.<br>  02/09/2024
+ :  8am : Flight 150 leaves Frankfurt  for Portland.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+<TR>
+   <TD align="center" COLSPAN="4">
+   <b>A total of 7 scheduled flights.</font></b>
+   </TD>
+</TR>
+</TABLE>
+
+<TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">
+<TR>
+<TD align="left" width="50%" >
+<input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" border="0" /></TD>
+<TD align="right" width="50%" >
+<input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gif" border="0" /></TD>
+</TABLE>
+
+<div><input type="hidden" name=".cgifields" value="6"  /><input type="hidden" name=".cgifields" value="4"  /><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" name=".cgifields" value="3"  /><input type="hidden" name=".cgifields" value="7"  /><input type="hidden" name=".cgifields" value="2"  /><input type="hidden" name=".cgifields" value="5"  /></div></form>
+
+</center>
+
+</body>
+</html>
+0
+

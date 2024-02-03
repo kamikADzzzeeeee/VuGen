@@ -1,0 +1,44 @@
+[
+    {
+        "stepId": "STEP13",
+        "stepName": "Url: WebTours",
+        "infFile": "t1.inf",
+        "time": 1706774929487
+    },
+    {
+        "stepId": "STEP14",
+        "stepName": "Url: header.html",
+        "infFile": "t2.inf",
+        "time": 1706774929581
+    },
+    {
+        "stepId": "STEP15",
+        "stepName": "Url: welcome.pl",
+        "infFile": "t3.inf",
+        "time": 1706774929748
+    },
+    {
+        "stepId": "STEP16",
+        "stepName": "Submit Form: login.pl",
+        "infFile": "t4.inf",
+        "time": 1706774931007
+    },
+    {
+        "stepId": "STEP17",
+        "stepName": "Image: Itinerary Button",
+        "infFile": "t6.inf",
+        "time": 1706774932202
+    },
+    {
+        "stepId": "STEP18",
+        "stepName": "Submit Form: itinerary.pl",
+        "infFile": "t7.inf",
+        "time": 1706774934279
+    },
+    {
+        "stepId": "STEP19",
+        "stepName": "Image: SignOff Button",
+        "infFile": "t8.inf",
+        "time": 1706774935344
+    }
+]

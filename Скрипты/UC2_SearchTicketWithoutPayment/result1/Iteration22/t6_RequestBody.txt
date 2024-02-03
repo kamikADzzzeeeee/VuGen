@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Zurich&departDate=02%2F02%2F2024&arrive=Portland&returnDate=02%2F12%2"
+"F2024&numPassengers=10&seatPref=Aisle&seatType=First&.cgifields=roundtrip&.cgifields=seatType&"
+".cgifields=seatPref&findFlights.x=11&findFlights.y=7"

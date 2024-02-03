@@ -1,0 +1,48 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(65): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(67): web_submit_form("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(67): Submitting form to "http://localhost:1080/cgi-bin/login.pl", Target Frame="body"  	[MsgId: MMSG-27978]
+Action.c(67): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?username=Anastasia5425&password=1234" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(67): Detected non-resource "http://localhost:1080/cgi-bin/error.pl?error=badPassword" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(67): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(67): Error -26366: "Text=User password was correct" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(67): Error -26366: "Text=Welcome, <b>Anastasia5425</b>, to the Web Tours" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(65): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(67): web_submit_form("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(67): Submitting form to "http://localhost:1080/cgi-bin/login.pl", Target Frame="body"  	[MsgId: MMSG-27978]
+Action.c(67): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?username=Catherine1220&password=1234" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(67): Detected non-resource "http://localhost:1080/cgi-bin/error.pl?error=badPassword" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(67): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(67): Error -26366: "Text=User password was correct" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(67): Error -26366: "Text=Welcome, <b>Catherine1220</b>, to the Web Tours" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 3.	[MsgId: MMSG-10545]
+Action.c(65): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(67): web_submit_form("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(67): Submitting form to "http://localhost:1080/cgi-bin/login.pl", Target Frame="body"  	[MsgId: MMSG-27978]
+Action.c(67): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?username=Catherine1220&password=1234" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(67): Detected non-resource "http://localhost:1080/cgi-bin/error.pl?error=badPassword" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(67): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(67): Error -26366: "Text=User password was correct" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(67): Error -26366: "Text=Welcome, <b>Catherine1220</b>, to the Web Tours" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Action.c(65): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(67): web_submit_form("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(67): Submitting form to "http://localhost:1080/cgi-bin/login.pl", Target Frame="body"  	[MsgId: MMSG-27978]
+Action.c(67): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?username=Eugene5320&password=1234" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(67): Detected non-resource "http://localhost:1080/cgi-bin/error.pl?error=badPassword" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(67): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(67): Error -26366: "Text=User password was correct" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(67): Error -26366: "Text=Welcome, <b>Eugene5320</b>, to the Web Tours" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

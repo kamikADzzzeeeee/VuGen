@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 Feb 2024 07:29:15 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Pauline&address2&water%2FNenets_Autonomous_Okrug%2F7430&username&Pauline5632&hash&82&lastName&Ryabova%0A&address1&Parkovaya&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

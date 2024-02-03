@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 02 Feb 2024 14:47:23 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Catherine&address2&Ivanovo%2FThe_Republic_of_Dagestan%2F5709&username&Catherine6149&hash&57&lastName&Nikolaeva&address1&Oktyabrskaya&creditCard&&expDate&; path=/
+Keep-Alive: timeout=5, max=95
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\user\Documents\VuGen\Scripts\UC3_BookingFlight
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\user\documents\vugen\scripts\uc3_bookingflight\\logfile.log
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\combined_UC3_BookingFlight.c
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 Feb 2024 06:44:57 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Catherine&address2&Nizhny%2FBryansk_region%2F2937&username&Catherine1220&hash&112&lastName&Vinogradova%0A&address1&Sadovaya&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

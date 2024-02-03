@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\user\Documents\VuGen\Scripts\UC4_ViewingListOfFlight
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\user\documents\vugen\scripts\uc4_viewinglistofflight\\logfile.log
+c:\users\user\documents\vugen\scripts\uc4_viewinglistofflight\\combined_UC4_ViewingListOfFlight.c
+c:\users\user\documents\vugen\scripts\uc4_viewinglistofflight\\pre_cci.c

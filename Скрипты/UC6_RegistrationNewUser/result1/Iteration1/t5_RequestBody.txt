@@ -1,0 +1,2 @@
+"username=Alina8716&password=1234&passwordConfirm=1234&firstName=Alina&lastName=Baranova&addres"
+"s1=Pionerskaya&address2=Ekaterinburg%2FKaluga_region%2F0358&register.x=68&register.y=5"

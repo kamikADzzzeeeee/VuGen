@@ -1,0 +1,42 @@
+[
+    {
+        "transactionName": "Goto_LoginPage",
+        "rawStartTime": 1706772810176,
+        "rawEndTime": 1706772811176
+    },
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1706772811804,
+        "rawEndTime": 1706772812436
+    },
+    {
+        "transactionName": "Goto_FindFlightPage",
+        "rawStartTime": 1706772812974,
+        "rawEndTime": 1706772813578
+    },
+    {
+        "transactionName": "Goto_FoundFlightPage",
+        "rawStartTime": 1706772814255,
+        "rawEndTime": 1706772814853
+    },
+    {
+        "transactionName": "Goto_PaymentDetailsPage",
+        "rawStartTime": 1706772816613,
+        "rawEndTime": 1706772817171
+    },
+    {
+        "transactionName": "Goto_InvoicePage",
+        "rawStartTime": 1706772817914,
+        "rawEndTime": 1706772818545
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1706772819224,
+        "rawEndTime": 1706772819856
+    },
+    {
+        "transactionName": "UC3_BookingFlight",
+        "rawStartTime": 1706772809893,
+        "rawEndTime": 1706772820457
+    }
+]

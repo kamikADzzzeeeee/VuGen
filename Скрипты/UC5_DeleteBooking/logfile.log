@@ -1,0 +1,2 @@
+c:\users\user\documents\vugen\scripts\uc5_deletebooking\\pre_cci.c: Action.c:241: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc5_deletebooking\\pre_cci.c: Action.c:327: warning: declaration of `readRowFromParameters' does not match previous declaration at Action.c:13

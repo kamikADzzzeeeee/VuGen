@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 Feb 2024 07:29:58 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Wed, 31 Jan 2024 07:29:58 GMT
+Set-Cookie: MTUserInfo=firstName&Eugene&username&Eugene5320&address2&Sabetta%2FKemerovo_region%2F0995&hash&112&address1&Zarechnaya&lastName&Timofeev%0A; path=/
+Keep-Alive: timeout=5, max=89
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

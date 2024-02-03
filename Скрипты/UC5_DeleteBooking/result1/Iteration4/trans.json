@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "Goto_LoginPage",
+        "rawStartTime": 1706774937972,
+        "rawEndTime": 1706774938766
+    },
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1706774939447,
+        "rawEndTime": 1706774940035
+    },
+    {
+        "transactionName": "Goto_ItineraryPage",
+        "rawStartTime": 1706774940525,
+        "rawEndTime": 1706774941017
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1706774941665,
+        "rawEndTime": 1706774942151
+    },
+    {
+        "transactionName": "UC5_DeleteBooking",
+        "rawStartTime": 1706774937701,
+        "rawEndTime": 1706774943207
+    }
+]

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 02 Feb 2024 14:46:34 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Alina&address2&Ekaterinburg%2FKaluga_region%2F0358&username&Alina8716&hash&22&lastName&Baranova&address1&Pionerskaya&creditCard&&expDate&; path=/
+Keep-Alive: timeout=5, max=95
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

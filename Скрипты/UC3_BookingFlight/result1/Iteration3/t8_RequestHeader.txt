@@ -1,0 +1,18 @@
+POST /cgi-bin/reservations.pl HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://localhost:1080/cgi-bin/reservations.pl?page=welcome
+Origin: http://localhost:1080
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: frame
+Sec-Fetch-Site: same-origin
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-User: ?1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1706772578; MTUserInfo=firstName&Catherine&address2&Nizhny%2FBryansk_region%2F2937&username&Catherine1220&hash&112&lastName&Vinogradova%0A&address1&Sadovaya&creditCard&&expDate&%0A
+Content-Length: 251
+

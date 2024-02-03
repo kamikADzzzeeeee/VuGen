@@ -1,0 +1,14 @@
+GET /cgi-bin/welcome.pl?page=search HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: frame
+Sec-Fetch-Site: same-origin
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1706772797; MTUserInfo=firstName&Dmitriy&address2&Novokuznetsk%2FThe_Republic_of_Khakassia%2F2244&username&Dmitriy4365&hash&117&lastName&Sobolev%0A&address1&Pionerskaya&creditCard&&expDate&%0A
+

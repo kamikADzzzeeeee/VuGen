@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>UC3_BookingFlight</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="UC3_BookingFlight.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="UC3_BookingFlight.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="inputfile\" Filter="2" />
+    <FileEntry Name="combined_UC3_BookingFlight.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="185262545440.idx" Filter="1" />
+    <FileEntry Name="192350676440.idx" Filter="1" />
+    <FileEntry Name="211203811440.idx" Filter="1" />
+    <FileEntry Name="23308419290.idx" Filter="1" />
+    <FileEntry Name="2330841929_0DP.675.idx" Filter="1" />
+    <FileEntry Name="2330841929_4B6.805.idx" Filter="1" />
+    <FileEntry Name="2330841929_bEO.297.idx" Filter="1" />
+    <FileEntry Name="2330841929_D8T.447.idx" Filter="1" />
+    <FileEntry Name="2330841929_rDV.237.idx" Filter="1" />
+    <FileEntry Name="2330841929_TeI.251.idx" Filter="1" />
+    <FileEntry Name="23562174290.idx" Filter="1" />
+    <FileEntry Name="237932274440.idx" Filter="1" />
+    <FileEntry Name="24249605440.idx" Filter="1" />
+    <FileEntry Name="2723468440.idx" Filter="1" />
+    <FileEntry Name="49590012440.idx" Filter="1" />
+    <FileEntry Name="52416315440.idx" Filter="1" />
+    <FileEntry Name="61337848440.idx" Filter="1" />
+    <FileEntry Name="63213790440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml.bak" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv7nq.853.log" Filter="1" />
+    <FileEntry Name="mdrvBTI.901.log" Filter="1" />
+    <FileEntry Name="mdrvBzr.567.log" Filter="1" />
+    <FileEntry Name="mdrvDfQ.455.log" Filter="1" />
+    <FileEntry Name="mdrvdH6.95.log" Filter="1" />
+    <FileEntry Name="mdrveoK.797.log" Filter="1" />
+    <FileEntry Name="mdrvfwF.33.log" Filter="1" />
+    <FileEntry Name="mdrvk81.383.log" Filter="1" />
+    <FileEntry Name="mdrvTbU.253.log" Filter="1" />
+    <FileEntry Name="mdrvvaj.555.log" Filter="1" />
+    <FileEntry Name="mdrvYYc.23.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt.bak" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="options.txt.bak" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="pre_cci.c.bak" Filter="1" />
+    <FileEntry Name="replay.har" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml.bak" Filter="1" />
+    <FileEntry Name="shunra.shunra" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UC3_BookingFlight.bak" Filter="1" />
+    <FileEntry Name="UC3_BookingFlight.c.pickle" Filter="1" />
+    <FileEntry Name="UC3_BookingFlight.ci" Filter="1" />
+    <FileEntry Name="UC3_BookingFlight.pickle" Filter="1" />
+    <FileEntry Name="UC3_BookingFlight.prm.bak" Filter="1" />
+    <FileEntry Name="UC3_BookingFlight.sdf" Filter="1" />
+    <FileEntry Name="UC3_BookingFlight.usr.bak" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

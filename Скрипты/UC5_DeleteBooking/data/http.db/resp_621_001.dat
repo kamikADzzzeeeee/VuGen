@@ -1,0 +1,814 @@
+f84
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Flights List</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Itinerary</font></b></h1><blockquote><form method="post" action="itinerary.pl" enctype="application/x-www-form-urlencoded">
+<center>
+<TABLE BORDER="0" WIDTH="85%" CELLSPACING="0">
+<TR bgcolor="#5E7884">
+  <TD colspan="4" align="center"><font color="white"><B>Anastasia Krylova
+ 's Flight Transaction Summary</B></color></TD></TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="1" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51068548-8001-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;5 Coach class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Arina Koroleva      <li><i>Michael Antonov      <li><i>Catherine Osipova      <li><i>Dmitriy Makarov
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 4025 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  8am : Flight 850 leaves Sydney  for Portland.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="2" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51063009-15464-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Veronica Novikova      <li><i>Vladimir Andreev      <li><i>Julia Zakharova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 1040 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  1pm : Flight 701 leaves Seattle  for Denver.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="3" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="510623011-231571-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;8 First class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Catherine Belyaeva      <li><i>Ivan Titov      <li><i>Julia Ershova      <li><i>Artyom Nikolaev  
+1000
+    <li><i>Veronica Kudryavtseva      <li><i>Alexei Nikolaev      <li><i>Olga Anisimova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 10432 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  5pm : Flight 682 leaves San Francisco  for Sydney.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="4" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51047826-30913-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;6 First class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Elena Popova      <li><i>Maksim Novikov      <li><i>Ksenia Kiselyova      <li><i>Artyom Vasiliev      <li><i>Maria Ryabova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 1872 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  1pm : Flight 291 leaves London  for Zurich.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="5" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51048607-3947504-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;8 First class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Pauline Smirnova      <li><i>Michael Gusev      <li><i>Victoria Borisova      <li><i>Paul Pavlov      <li><i>Ksenia Fedorova      <li><i>Andrey Ershov      <li><i>Anastasia Alekseeva
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 7552 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  5pm : Flight 312 leaves Los Angeles  for Frankfurt.<br>  02/09/2024
+ :  1pm : Flight 131 leaves Frankfurt  for Los Angeles.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="6" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="510437447-46571-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;5 Coach class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Elena Lebedeva      <li><i>Ruslan Tarasov      <li><i>Anastasia Soboleva      <li><i>Gregory Petrov
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" val
+1000
+ign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 5430 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  1pm : Flight 181 leaves Frankfurt  for Sydney.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="7" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51070494-53952-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Anastasia Ershova      <li><i>Dmitriy Ilyin      <li><i>Pauline Osipova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 1376 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  11pm : Flight 903 leaves Zurich  for Denver.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="8" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51071935-61655-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;6 First class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Julia Bogdanova      <li><i>Eugene Solovyov      <li><i>Catherine Kiselyova      <li><i>Vladimir Fedotov      <li><i>Elizabeth Ryabova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 1518 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  5pm : Flight 942 leaves Zurich  for Paris.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="9" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51042978-7394735-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;2 Coach class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Arina Lazareva
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 1566 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  8am : Flight 160 leaves Frankfurt  for San Francisc
+1000
+o.<br>  02/09/2024
+ :  11pm : Flight 613 leaves San Francisco  for Frankfurt.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="10" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51052300-7710-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;2 Coach class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Alina Kuznetsova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 242 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  5pm : Flight 412 leaves Paris  for Frankfurt.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="11" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51056051-84877-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;9 Business class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Irina Belova      <li><i>Eugene Dorofeev      <li><i>Maria Stepanova      <li><i>Daniel Baranov      <li><i>Ksenia Lebedeva      <li><i>Anton Gerasimov      <li><i>Veronica Grigorieva      <li><i>Ilya Frolov
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 3411 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  11pm : Flight 513 leaves Portland  for Frankfurt.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="12" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51038972-9617990-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;8 Coach class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Maria Ershova      <li><i>Artyom Ivanov      <li><i>Alice Novikova      <li><i>Nikita Solovyov      <li><i>Olga Zhuravleva      <li><i>Anton Golubev      <li><i>Pauline Morozova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 3880 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  5pm : Flight 052 leaves Denver  for Portland.<br>  02/09/2024
+ :  11pm : Flight 503 leaves Portland  for Denver.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD wi
+1000
+dth="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="13" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="510475248-10632874-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Pauline Lazareva
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 7368 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  11pm : Flight 283 leaves London  for Sydney.<br>  02/09/2024
+ :  5pm : Flight 822 leaves Sydney  for London.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="14" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51053020-11031231-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Elizabeth Krylova      <li><i>Ruslan Zhukov      <li><i>Maria Maksimova      <li><i>Artyom Bogdanov
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 6010 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  1pm : Flight 431 leaves Paris  for Los Angeles.<br>  02/09/2024
+ :  8am : Flight 340 leaves Los Angeles  for Paris.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="15" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51037468-115880-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;10 First class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Anna Tsvetkova      <li><i>Michael Andreev      <li><i>Alice Kuznetsova      <li><i>Ivan Kalinin      <li><i>Anna Makarova      <li><i>Paul Ilyin      <li><i>Victoria Borisova      <li><i>Dmitriy Semyonov      <li><i>Maria Semyonova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 6440 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  1pm : Flight 011 leaves Denver  for Frankfurt.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="16" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51058948-13038558-AK"  />
+  </TD
+1000
+>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 1265 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  1pm : Flight 591 leaves Portland  for Zurich.<br>  02/09/2024
+ :  8am : Flight 950 leaves Zurich  for Portland.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="17" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51064116-13088-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 155 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  1pm : Flight 731 leaves Seattle  for Los Angeles.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+
+<!-- Flight #1 -->
+<TR bgcolor="#EFF2F7">
+  <TD width="5%" rowspan="2" align="left" valign="top">
+<b>
+<label><input type="checkbox" name="18" value="on" /></label></font></b>
+<input type="hidden" name="flightID" value="51051531-14564240-AK"  />
+  </TD>
+  <TD width="45%" valign="top">
+      <b>&nbsp;&nbsp;8 Coach class tickets for :</b><br/>
+      <center><table border="0" width="85%"><tr><td>
+      <li><i>Anastasia Krylova      <li><i>Milan Antonova      <li><i>Alexander Kudryavtsev      <li><i>Valeria Vorobyova      <li><i>Lev Sergeev      <li><i>Anna Kulikova      <li><i>Maksim Kiselyov      <li><i>Daria Nikitina
+      <li><i></i>
+      </td></tr></table></center>
+  </TD>
+  <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+  <TD width="45%" valign=top><b>Invoice sent to:</b><br/>
+      <center>
+      <Table width="80%" cellspacing="0" > <tr> <td>
+          Anastasia Krylova
+<br/>
+          Sovietskay<br/>
+          Omsk/Kaliningrad_region/5683<br/>
+          <br/>
+          Total Charge: $ 5120 <BR/> (CC: x-1378)
+      </td> </tr> </table>
+      </center>
+  </TD>
+</TR>
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="3">
+  <b>Flight Details:</b><BR/>  <center>
+  02/01/2024
+ :  1pm : Flight 391 leaves Los Angeles  for Zurich.<br>  02/09/2024
+ :  11pm : Flight 933 leaves Zurich  for Los Angeles.<br>  </center>
+  </TD>
+</TR>
+
+<TR bgcolor="#EFF2F7">
+  <TD COLSPAN="4">
+  <hr/>
+  </TD>
+</TR>
+<TR>
+   <TD align="center" COLSPAN="4">
+   <b>A total of 18 scheduled flights.</font></b>
+   </TD>
+</TR>
+</TABLE>
+
+<TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">
+<TR>
+<TD align="left" width="50%" >
+<input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" border="0" /></TD>
+<TD align="right" width="50%" >
+<input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gif" border="0" /></TD>
+</TABLE>
+
+<div><input type="hidden" name=".cgifields" value="11"  /><input type="hidden" name=".cgifields" value="7"  /><input type="hidden" name=".cgifields" value="17"  /><input type="hidden" na
+325
+me=".cgifields" value="2"  /><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" name=".cgifields" value="18"  /><input type="hidden" name=".cgifields" value="16"  /><input type="hidden" name=".cgifields" value="13"  /><input type="hidden" name=".cgifields" value="6"  /><input type="hidden" name=".cgifields" value="3"  /><input type="hidden" name=".cgifields" value="9"  /><input type="hidden" name=".cgifields" value="12"  /><input type="hidden" name=".cgifields" value="14"  /><input type="hidden" name=".cgifields" value="15"  /><input type="hidden" name=".cgifields" value="8"  /><input type="hidden" name=".cgifields" value="4"  /><input type="hidden" name=".cgifields" value="10"  /><input type="hidden" name=".cgifields" value="5"  /></div></form>
+
+</center>
+
+</body>
+</html>
+0
+

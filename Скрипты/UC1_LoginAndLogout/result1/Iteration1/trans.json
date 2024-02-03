@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "Goto_LoginPage",
+        "rawStartTime": 1706768265349,
+        "rawEndTime": 1706768266602
+    },
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1706768267782,
+        "rawEndTime": 1706768268587
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1706768269498,
+        "rawEndTime": 1706768270124
+    },
+    {
+        "transactionName": "UC1_LoginAndLogout",
+        "rawStartTime": 1706768264547,
+        "rawEndTime": 1706768270553
+    }
+]

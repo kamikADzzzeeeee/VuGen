@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 Feb 2024 08:09:07 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Nikita&address2&Varandey%2FSaratov_region%2F5859&username&Nikita5758&hash&24&lastName&Zhuravlev%0A&address1&Proletarskaya&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

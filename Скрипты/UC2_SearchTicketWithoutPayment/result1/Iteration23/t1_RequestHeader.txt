@@ -1,0 +1,13 @@
+GET /WebTours/ HTTP/1.1
+Sec-Fetch-Dest: document
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Sec-Fetch-Mode: navigate
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+

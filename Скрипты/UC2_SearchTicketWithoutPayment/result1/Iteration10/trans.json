@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "GoTo_LoginPage",
+        "rawStartTime": 1706769756381,
+        "rawEndTime": 1706769757175
+    },
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1706769757854,
+        "rawEndTime": 1706769758357
+    },
+    {
+        "transactionName": "Goto_FindFlightPage",
+        "rawStartTime": 1706769758957,
+        "rawEndTime": 1706769759451
+    },
+    {
+        "transactionName": "Goto_FoundFlightPage",
+        "rawStartTime": 1706769759909,
+        "rawEndTime": 1706769760532
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1706769761132,
+        "rawEndTime": 1706769761839
+    },
+    {
+        "transactionName": "UC2_SearchTicketWithoutPayment",
+        "rawStartTime": 1706769756128,
+        "rawEndTime": 1706769762357
+    }
+]

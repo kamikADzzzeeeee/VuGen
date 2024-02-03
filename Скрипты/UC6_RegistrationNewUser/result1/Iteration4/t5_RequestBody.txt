@@ -1,0 +1,2 @@
+"username=Ruslan2475&password=1234&passwordConfirm=1234&firstName=Ruslan&lastName=Kulikov&addre"
+"ss1=Sovkhoznaya&address2=Bratsk%2FChechen_Republic%2F1381&register.x=68&register.y=5"

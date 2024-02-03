@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 02 Feb 2024 14:47:48 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Ilya&address2&Samara%2FKurgan_region%2F7473&username&Ilya7041&hash&49&lastName&Ershov&address1&Sovietskay&creditCard&&expDate&; path=/
+Keep-Alive: timeout=5, max=95
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

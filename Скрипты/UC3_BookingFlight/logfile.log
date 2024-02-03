@@ -1,0 +1,29 @@
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:122: warning: unrecognized character escape sequence `\<'
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:122: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:122: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:122: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:123: warning: unrecognized character escape sequence `\<'
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:123: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:123: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:123: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:128: warning: unrecognized character escape sequence `\<'
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:128: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:128: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:128: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:156: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:166: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:260: warning: declaration of `readRowFromParameters' does not match previous declaration at Action.c:11
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:313: warning: declaration of `getRandomSaveCC' does not match previous declaration at Action.c:17
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:326: warning: declaration of `getDepartCityAndArriveCity' does not match previous declaration at Action.c:20
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:340: warning: declaration of `getDataFromOutRetFlight' does not match previous declaration at Action.c:150
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:448: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:449: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:450: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:451: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:452: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:453: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:454: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:455: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:456: warning: unrecognized character escape sequence `\='
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:501: warning: unreachable code
+c:\users\user\documents\vugen\scripts\uc3_bookingflight\\pre_cci.c: Action.c:504: warning: missing return value

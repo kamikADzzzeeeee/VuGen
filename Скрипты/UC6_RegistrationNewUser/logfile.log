@@ -1,0 +1,2 @@
+c:\users\user\documents\vugen\scripts\uc6_registrationnewuser\\pre_cci.c: Action.c:140: warning: declaration of `getFirstAndLastNameUser' does not match previous declaration at Action.c:4
+c:\users\user\documents\vugen\scripts\uc6_registrationnewuser\\pre_cci.c: Action.c:168: warning: declaration of `writeIntoFile' does not match previous declaration at Action.c:133

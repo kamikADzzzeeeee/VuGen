@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 Feb 2024 06:43:40 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Ivan&address2&Cherepovets%2FAstrakhan_region%2F1147&username&Ivan7673&hash&83&lastName&Dmitriev%0A&address1&Zarechnaya&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

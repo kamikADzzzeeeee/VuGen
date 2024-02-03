@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 02 Feb 2024 14:47:00 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Ruslan&address2&Bratsk%2FChechen_Republic%2F1381&username&Ruslan2475&hash&85&lastName&Kulikov&address1&Sovkhoznaya&creditCard&&expDate&; path=/
+Keep-Alive: timeout=5, max=95
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

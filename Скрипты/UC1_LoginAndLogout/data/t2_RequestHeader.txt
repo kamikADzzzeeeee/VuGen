@@ -1,0 +1,12 @@
+POST /gts1c3 HTTP/1.1
+Host: ocsp.pki.goog
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 83
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+

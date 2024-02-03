@@ -1,0 +1,2 @@
+"username=Anna7390&password=1234&passwordConfirm=1234&firstName=Anna&lastName=Tsvetkova&address"
+"1=Nagornaya&address2=Kemerovo%2FStavropol_region%2F5701&register.x=68&register.y=5"

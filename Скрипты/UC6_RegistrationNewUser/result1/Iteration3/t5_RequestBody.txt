@@ -1,0 +1,2 @@
+"username=Alice3982&password=1234&passwordConfirm=1234&firstName=Alice&lastName=Baranova&addres"
+"s1=Pionerskaya&address2=Syktyvkar%2FKrasnodar_region%2F4286&register.x=68&register.y=5"

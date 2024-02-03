@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "Goto_LoginPage",
+        "rawStartTime": 1706728168850,
+        "rawEndTime": 1706728170250
+    },
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1706728170818,
+        "rawEndTime": 1706728171420
+    },
+    {
+        "transactionName": "Goto_ItineraryPage",
+        "rawStartTime": 1706728171911,
+        "rawEndTime": 1706728172507
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1706728173104,
+        "rawEndTime": 1706728173745
+    },
+    {
+        "transactionName": "UC4_ViewingListOfFlight",
+        "rawStartTime": 1706728168583,
+        "rawEndTime": 1706728174357
+    }
+]

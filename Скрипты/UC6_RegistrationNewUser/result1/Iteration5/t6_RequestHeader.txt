@@ -1,0 +1,14 @@
+GET /cgi-bin/welcome.pl?page=menus HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/login.pl
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: frame
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1706885225; MTUserInfo=firstName&Anna&address2&Kemerovo%2FStavropol_region%2F5701&username&Anna7390&hash&16&lastName&Tsvetkova&address1&Nagornaya&creditCard&&expDate&
+

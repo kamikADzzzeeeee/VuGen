@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 Feb 2024 08:09:26 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Anastasia&address2&Kazan%2FSverdlovsk_region%2F6693&username&Anastasia5425&hash&117&lastName&Dmitrieva%0A&address1&Gagarin&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

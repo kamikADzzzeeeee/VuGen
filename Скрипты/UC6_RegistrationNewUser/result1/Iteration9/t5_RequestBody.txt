@@ -1,0 +1,2 @@
+"username=Eldar5980&password=1234&passwordConfirm=1234&firstName=Eldar&lastName=Vinogradov&addr"
+"ess1=Cooperative&address2=Moscow%2FYaroslavl_region%2F3141&register.x=68&register.y=5"

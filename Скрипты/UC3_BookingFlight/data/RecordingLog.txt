@@ -1,0 +1,1216 @@
+[API Trapper      (1190:33d0)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      (15ec:135c)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (15ec:324c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (15ec:324c)] Load Network Traffic Analyzers:
+[Network Analyzer (15ec:324c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (15ec:324c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (15ec:324c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (15ec:324c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (15ec:324c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (15ec:324c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (15ec:324c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (15ec:1cec)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Net An. Debug    (15ec:1cec)] IP address belongs to the VirtualBox, taking the another interface with ip=172.22.160.1
+[Network Analyzer (15ec:324c)] Establish Listener @ 127.0.0.1:13858
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:13858   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 173.194.222.95:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:22a0)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:22a0)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:21b8)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:21b8)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:2310)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:2310)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec: c48)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:11ac)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:310c)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 52.11.178.236:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:310c)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec: c48)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:11ac)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:2ec4)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:2ec4)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:331c)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1350)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:331c)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1350)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:2ca0)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:2ca0)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1b3c)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1b3c)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:2b00)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:2b00)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 16) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 000 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 111 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /WebTours/"   
+[Network Analyzer (15ec:1cec)]   (Sid: 17) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 17) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /WebTours/header.html"   
+[Network Analyzer (15ec:1cec)]   (Sid: 17) Client -> Server @ : 613 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 17) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (15ec:1cec)]   (Sid: 18) Client -> Server @ : 524 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 18) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (15ec:1cec)]   (Sid: 18) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /WebTours/home.html"   
+[Network Analyzer (15ec:1cec)]   (Sid: 17) Client -> Server @ : 661 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 17) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 18) Server -> Client : 1751 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:2bc4)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:2bc4)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid: 17) Connection Terminated (by Server)
+[Network Analyzer (15ec:1cec)]   (Sid: 18) Connection Terminated (by Server)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[User action                 ] EndTransactionEvent 111 [User action                 ] StartTransactionEvent 222 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (15ec:1cec)]   (Sid: 20) Client -> Server @ : 793 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 20) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 20) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (15ec:1cec)]   (Sid: 20) Client -> Server @ : 670 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (15ec:1cec)]   (Sid: 21) Client -> Server @ : 665 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 20) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 20) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 21) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 21) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 222 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 20) Connection Terminated (by Server)
+[Network Analyzer (15ec:1cec)]   (Sid: 21) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent 333 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (15ec:1cec)]   (Sid: 22) Client -> Server @ : 704 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 22) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (15ec:1cec)]   (Sid: 22) Client -> Server @ : 687 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (15ec:1cec)]   (Sid: 23) Client -> Server @ : 688 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 22) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (15ec:1cec)]   (Sid: 22) Client -> Server @ : 596 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 23) Server -> Client : 4521 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 22) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (15ec:1cec)]   (Sid: 23) Client -> Server @ : 598 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:1cec)]   (Sid: 23) Server -> Client : 1056 bytes  (Service=HTTP)
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:3398)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:3398)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 333 [Network Analyzer (15ec:1cec)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:29cc)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:29cc)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /canonical.html"   
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /success.txt?ipv4"   
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  6) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 27) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 444 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (15ec:1cec)]   (Sid: 28) Client -> Server @ : 1050 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 28) Server -> Client : 2718 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 28) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 28) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent 444 [User action                 ] StartTransactionEvent 555 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (15ec:1cec)]   (Sid: 29) Client -> Server @ : 936 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 29) Server -> Client : 2964 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 555 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 29) Connection Terminated (by Server)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[User action                 ] StartTransactionEvent 666 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (15ec:1cec)]   (Sid: 30) Client -> Server @ : 1164 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 30) Server -> Client : 2859 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 30) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 666 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 30) Connection Terminated (by Server)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[User action                 ] StartTransactionEvent 777 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (15ec:1cec)]   (Sid: 31) Client -> Server @ : 681 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 31) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 31) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (15ec:1cec)]   (Sid: 31) Client -> Server @ : 562 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:324c)] Address lookup for WIN-VSEGDS4NDUS = 192.168.56.1
+[Network Analyzer (15ec:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (15ec:1cec)] "GET /WebTours/home.html"   
+[Network Analyzer (15ec:1cec)]   (Sid: 32) Client -> Server @ : 658 bytes (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 32) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 31) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid: 31) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 777 [User action                 ] EndTransactionEvent 000 [Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (15ec:1cec)]   (Sid: 32) Connection Terminated (by Server)
+[Network Analyzer (15ec:1cec)]   (Sid: 31) Connection Terminated (by Server)

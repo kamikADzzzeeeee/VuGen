@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 Feb 2024 07:32:17 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Wed, 31 Jan 2024 07:32:17 GMT
+Set-Cookie: MTUserInfo=firstName&Ilya&username&Ilya4261&address2&Bratsk%2FTyva_Republic%2F9708&hash&113&address1&Kalinina&lastName&Semyonov%0A; path=/
+Keep-Alive: timeout=5, max=89
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

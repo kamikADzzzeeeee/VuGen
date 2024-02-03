@@ -1,0 +1,2 @@
+c:\users\user\documents\vugen\scripts\uc2_searchticketwithoutpayment\\pre_cci.c: Action.c:157: warning: declaration of `readRowFromParameters' does not match previous declaration at Action.c:8
+c:\users\user\documents\vugen\scripts\uc2_searchticketwithoutpayment\\pre_cci.c: Action.c:216: warning: declaration of `getDepartCityAndArriveCity' does not match previous declaration at Action.c:14

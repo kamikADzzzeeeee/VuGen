@@ -1,0 +1,2 @@
+"username=Michael8484&password=1234&passwordConfirm=1234&firstName=Michael&lastName=Petrov&addr"
+"ess1=Proletarskaya&address2=Simferopol%2FSmolensk_region%2F3386&register.x=68&register.y=5"

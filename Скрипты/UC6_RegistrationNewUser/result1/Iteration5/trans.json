@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "GoTo_LoginPage",
+        "rawStartTime": 1706885225137,
+        "rawEndTime": 1706885226083
+    },
+    {
+        "transactionName": "GoTo_RegistrationPage",
+        "rawStartTime": 1706885226665,
+        "rawEndTime": 1706885227074
+    },
+    {
+        "transactionName": "Registation",
+        "rawStartTime": 1706885227517,
+        "rawEndTime": 1706885227926
+    },
+    {
+        "transactionName": "Goto_HomePage",
+        "rawStartTime": 1706885228494,
+        "rawEndTime": 1706885229013
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1706885229567,
+        "rawEndTime": 1706885230135
+    },
+    {
+        "transactionName": "UC6_RegistrationNewUser",
+        "rawStartTime": 1706885224851,
+        "rawEndTime": 1706885230720
+    }
+]

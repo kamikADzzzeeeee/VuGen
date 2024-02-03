@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 Feb 2024 07:30:09 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Wed, 31 Jan 2024 07:30:09 GMT
+Set-Cookie: MTUserInfo=firstName&Ksenia&username&Ksenia3992&address2&Syktyvkar%2FPerm_region%2F8767&hash&18&address1&Pervomayskaya&lastName&Solovyova%0A; path=/
+Keep-Alive: timeout=5, max=89
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
